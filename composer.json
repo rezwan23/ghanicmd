@@ -1,0 +1,16 @@
+{
+    "name": "ghani/cmd",
+    "description": "php-command-line-experience",
+    "authors": [
+        {
+            "name": "Razwanul Ghani",
+            "email": "razwanulghani@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
