@@ -1,1 +1,6 @@
-
+*
+!app/Ghani/*
+!.gitignore
+!composer.json
+!ghanicmd
+!readmd.md
