@@ -1,5 +1,4 @@
 *
-!App/Ghani/Ghani.php
-!composer.json
-!ghanicmd
-!.gitignore
+! .gitignore
+! composer.json
+! ghanicmd
